@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pyroinsight/static/css/main.4c291f98.css",
+    "main.js": "/pyroinsight/static/js/main.d8bf7b14.js",
+    "static/media/pyrobanner.png": "/pyroinsight/static/media/pyrobanner.04921e925e773c2ac89a.png",
+    "static/media/banner.png": "/pyroinsight/static/media/banner.80db2a895510dd2719aa.png",
+    "static/media/Navbar.png": "/pyroinsight/static/media/Navbar.f96a9f58c491b9acda99.png",
+    "static/media/avatar4.png": "/pyroinsight/static/media/avatar4.54d5c1de851c273b2cd9.png",
+    "static/media/logo 2.png": "/pyroinsight/static/media/logo 2.fcc7f24434c42136818b.png",
+    "static/media/Project3.png": "/pyroinsight/static/media/Project3.378b532af038bf47559c.png",
+    "static/media/Project2.png": "/pyroinsight/static/media/Project2.90f702366422b52138b1.png",
+    "static/media/Project1.png": "/pyroinsight/static/media/Project1.d5952144f76e2cb9e5d6.png",
+    "index.html": "/pyroinsight/index.html",
+    "main.4c291f98.css.map": "/pyroinsight/static/css/main.4c291f98.css.map",
+    "main.d8bf7b14.js.map": "/pyroinsight/static/js/main.d8bf7b14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c291f98.css",
+    "static/js/main.d8bf7b14.js"
+  ]
+}
