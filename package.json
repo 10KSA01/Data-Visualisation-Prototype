@@ -1,5 +1,6 @@
 {
-  "name": "PyroInsight",
+  "homepage": "https://10KSA01.github.io/pyroinsight",
+  "name": "pyroinsight",
   "version": "1.0.1",
   "private": true,
   "dependencies": {
@@ -66,6 +67,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^5.0.0"
   }
 }
